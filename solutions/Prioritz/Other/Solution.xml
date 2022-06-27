@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml version="9.2.22053.146" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>Prioritz</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Prioritz" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.7</Version>
+    <Managed>2</Managed>
+    <Publisher>
+      <UniqueName>ContosoCoffee</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Contoso Coffee" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>contoso</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>33065</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="contoso_prioritztopic" behavior="0" />
+      <RootComponent type="1" schemaName="contoso_prioritztopicitem" behavior="0" />
+      <RootComponent type="1" schemaName="contoso_prioritztopicitemranking" behavior="0" />
+      <RootComponent type="1" schemaName="contoso_prioritztopicparticipant" behavior="0" />
+      <RootComponent type="29" id="{633d9d7a-46b0-ec11-9840-000d3a3495ab}" behavior="0" />
+      <RootComponent type="29" id="{8d38f380-c6f3-ec11-bb3d-000d3a16d6e7}" behavior="0" />
+      <RootComponent type="29" id="{ffd5a60c-9bf3-ec11-bb3d-000d3a16d6e7}" behavior="0" />
+      <RootComponent type="66" schemaName="contoso_ContosoCoffee.PrioritZDnDRanking" behavior="0" />
+      <RootComponent type="300" schemaName="contoso_prioritzadmin_1d21e" behavior="0" />
+      <RootComponent type="300" schemaName="contoso_prioritzask_fefd1" behavior="0" />
+      <RootComponent type="431" schemaName="contoso_prioritztopic contoso_photo" behavior="0" />
+      <RootComponent type="431" schemaName="contoso_prioritztopicitem contoso_photo" behavior="0" />
+      <RootComponent type="432" schemaName="contoso_prioritztopic" behavior="0" />
+      <RootComponent type="432" schemaName="contoso_prioritztopicitem" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-204" displayName="Badges connector - 4" solution="Active" id="{83a7f978-0daf-4837-93ac-8522b4195879}" />
+        <Dependent type="29" displayName="Test add credit" id="{8d38f380-c6f3-ec11-bb3d-000d3a16d6e7}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-204" displayName="Badges connector - 4" solution="Active" id="{83a7f978-0daf-4837-93ac-8522b4195879}" />
+        <Dependent type="300" schemaName="contoso_prioritzask_fefd1" displayName="Prioritz Ask" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-204" displayName="Badges connector - 4" solution="Active" id="{83a7f978-0daf-4837-93ac-8522b4195879}" />
+        <Dependent type="connectionreference" displayName="contoso_sharedcontoso5fbadges20connector202d2045f364579ee83cb46c7_93ea7" id.connectionreferencelogicalname="contoso_sharedcontoso5fbadges20connector202d2045f364579ee83cb46c7_93ea7" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector" displayName="Badges connector" solution="Active" id="{86d9e4df-cdbb-4343-b19e-0398b4f3ae3d}" />
+        <Dependent type="connectionreference" displayName="contoso_sharedcontoso5fbadges20connector5f364579ee83cb46c7_35fd4" id.connectionreferencelogicalname="contoso_sharedcontoso5fbadges20connector5f364579ee83cb46c7_35fd4" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-201" displayName="Badges connector - 1" solution="Active" id="{e20c3f2c-86c4-4518-99f1-65ccb2c4d840}" />
+        <Dependent type="300" schemaName="contoso_prioritzask_fefd1" displayName="Prioritz Ask" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-201" displayName="Badges connector - 1" solution="Active" id="{e20c3f2c-86c4-4518-99f1-65ccb2c4d840}" />
+        <Dependent type="connectionreference" displayName="contoso_sharedcontoso5fbadges20connector202d2015f364579ee83cb46c7_26c63" id.connectionreferencelogicalname="contoso_sharedcontoso5fbadges20connector202d2015f364579ee83cb46c7_26c63" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-202" displayName="Badges connector - 2" solution="Active" id="{fd5f3ac0-cdc1-4433-b02b-b495df47d9e5}" />
+        <Dependent type="29" displayName="Test and creditted" id="{ffd5a60c-9bf3-ec11-bb3d-000d3a16d6e7}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-202" displayName="Badges connector - 2" solution="Active" id="{fd5f3ac0-cdc1-4433-b02b-b495df47d9e5}" />
+        <Dependent type="300" schemaName="contoso_prioritzask_fefd1" displayName="Prioritz Ask" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="372" schemaName="contoso_5Fbadges-20connector-20-2D-202" displayName="Badges connector - 2" solution="Active" id="{fd5f3ac0-cdc1-4433-b02b-b495df47d9e5}" />
+        <Dependent type="connectionreference" displayName="contoso_sharedcontoso5fbadges20connector202d2025f364579ee83cb46c7_1590b" id.connectionreferencelogicalname="contoso_sharedcontoso5fbadges20connector202d2025f364579ee83cb46c7_1590b" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>
